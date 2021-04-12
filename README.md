@@ -4,7 +4,7 @@ German: Ein TODO-Listen Tool für den Nintendo 3DS.
 
 English: A TODO-List Tool for the Nintendo 3DS.
 
-**Der Pfad der TODO-Liste findest du unter `sdmc:/3ds/StackTODOListe/AufgabenListe.json`.**
+**Den Pfad der TODO-Liste findest du unter `sdmc:/3ds/StackTODOListe/AufgabenListe.json`.**
 
 ## Screenshots
 **Screenshots zu Stack-TODO-Liste findest du hier.**
